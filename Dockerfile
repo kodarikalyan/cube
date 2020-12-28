@@ -1,2 +1,2 @@
-FROM kodarikalyan/cube
+FROM nginx
 COPY index.html /usr/share/nginx/html/
